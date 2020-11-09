@@ -1,3 +1,3 @@
 # talkr
 
-Rasyid Ridha's R talks compendium
+Rasyid Ridha's R and data talks compendium
